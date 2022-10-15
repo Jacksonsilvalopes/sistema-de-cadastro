@@ -1,4 +1,4 @@
 
-console.log("Teste da Plataforma")
-console.log("node --version")
+console.log("Teste da Plataforma Cadastro")
+console.log("node --version ")
 
